@@ -1,0 +1,14 @@
+name = "EPIC MUSIC"
+playlist = "https://github.com/aladimcso/repo.tubemusic.kodi/blob/main/epic_playlist"
+
+name = "GAMING MUSIC"
+playlist = "https://github.com/aladimcso/repo.tubemusic.kodi/blob/main/gaming_playlist"
+
+name = "GOSPEL"
+playlist = "https://github.com/aladimcso/repo.tubemusic.kodi/blob/main/gospel_playlist"
+
+name = "NCS MUSIC"
+playlist = "https://github.com/aladimcso/repo.tubemusic.kodi/blob/main/ncs_playlist"
+
+name = "RAP ANIMES"
+playlist = "https://github.com/aladimcso/repo.tubemusic.kodi/blob/main/animes_playlist"
